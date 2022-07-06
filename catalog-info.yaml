@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-demo-api-01
+  name: backstagedemoapi01
   description: Some demo api for backstage
   tags:
     - dotnet6
