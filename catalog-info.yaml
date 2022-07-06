@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Backstage Demo Api 1
+  description: Some demo api for backstage
+  tags:
+    - dotnet6
+    - csharp
+    - webapi
+    - api
+spec:
+  type: service
+  lifecycle: production
+  owner: team-1
