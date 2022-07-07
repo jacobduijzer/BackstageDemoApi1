@@ -5,7 +5,7 @@ metadata:
   description: Some demo api for backstage
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: jacobduijzer/BackstageDemoApi1
+    github.com/project-slug: 'jacobduijzer/BackstageDemoApi1'
   tags:
     - dotnet6
     - csharp
