@@ -1,5 +1,7 @@
 site_name: test-docs
+
 nav:
-  - Home: readme.md
+  - Home: index.md
+
 plugins:
   - techdocs-core
