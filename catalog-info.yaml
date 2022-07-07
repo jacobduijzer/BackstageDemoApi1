@@ -5,6 +5,7 @@ metadata:
   description: Some demo api for backstage
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/adr-location: docs/adrs
     github.com/project-slug: 'jacobduijzer/BackstageDemoApi1'
   tags:
     - dotnet6
