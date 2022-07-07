@@ -1,5 +1,3 @@
-# Test documentation
+# example docs
 
-## More 
-
-## Even more
+This is a basic example of documentation.

@@ -4,7 +4,7 @@ metadata:
   name: backstage-demo-api-01
   description: Some demo api for backstage
   annotations:
-    backstage.io/techdocs-ref: dir:docs
+    backstage.io/techdocs-ref: dir:./docs
   tags:
     - dotnet6
     - csharp
