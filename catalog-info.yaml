@@ -16,3 +16,5 @@ spec:
   type: service
   lifecycle: production
   owner: team-1
+  providesApis:
+    - weather-forecast
